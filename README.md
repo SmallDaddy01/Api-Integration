@@ -1,0 +1,1 @@
+This API integrates with an external service to predict the gender associated with a given name. It processes the raw response and applies custom logic to determine confidence levels.
