@@ -3,5 +3,15 @@
     "axios": "^1.15.0",
     "cors": "^2.8.6",
     "express": "^5.2.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "api-integration",
+  "description": "This API integrates with an external service to predict the gender associated with a given name. It processes the raw response and applies custom logic to determine confidence levels.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
